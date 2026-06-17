@@ -32,3 +32,8 @@
 
 ## Prompt de IA Utilizado
 > "Actúa como un Product Owner experto. Ayúdame a refinar un backlog inicial de 8 historias de usuario para una app de control de hábitos para estudiantes universitarios. Usa el formato 'Como [usuario], quiero [acción], para [beneficio]' y clasifícalas en prioridad alta, media y baja."
+
+---
+
+> **Nota:** Este es un planteamiento inicial para cumplir con el entregable de la Semana 1. El proyecto se encuentra en fase de validación conceptual, por lo que es posible que se realicen modificaciones, ajustes en el alcance o cambios totales de la idea de producto en las próximas semanas.
+
